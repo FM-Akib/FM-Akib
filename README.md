@@ -2,12 +2,9 @@
 <img src="https://github.com/FM-Akib/FM-Akib/blob/main/AkibCoverUPdate.png" />
 </a>
 <h1 align="center">Hi 👋, I'm Mohammad Fahim Muntasir Akib</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h4 align="center">A passionate web developer from Bangladesh</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fm-akib&label=Profile%20views&color=0e75b6&style=flat" alt="fm-akib" /> </p>
-
-
-
 
 ## :zap: My Projects_
 
@@ -59,4 +56,3 @@
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fm-akib&" alt="fm-akib" /></p>
