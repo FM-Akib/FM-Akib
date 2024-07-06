@@ -1,8 +1,12 @@
 <a href="https://web.programming-hero.com">
 <img src="https://github.com/FM-Akib/FM-Akib/blob/main/AkibCoverUPdate.png" />
 </a>
-<h1 align="center">Hi 👋, I'm Mohammad Fahim Muntasir Akib</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<!-- <h1 align="center">Hi 👋, I'm Mohammad Fahim Muntasir Akib</h1> -->
+<!-- <h3 align="center">A passionate web developer from Bangladesh</h3> -->
+
+## :rocket: About Me_
+
+<p align="center"> Hi, I specialize in MERN Stack web development, proficiently navigating through HTML, CSS, Tailwind, React, JavaScript, Express.js, and MongoDB. Beyond the technicalities, I am adept in C and C++, with a keen eye for optimizing code and enhancing performance. As an undergraduate Teaching Assistant in Object-Oriented Programming C++, I've honed my skills in guiding and mentoring others through complex programming concepts.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fm-akib&label=Profile%20views&color=0e75b6&style=flat" alt="fm-akib" /> </p>
 
