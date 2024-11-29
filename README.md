@@ -15,13 +15,17 @@
 
 ## :zap: My Projects_
 
-***<p align="center">
-[<img height="237" src="https://github.com/FM-Akib/FM-Akib/blob/main/Note%20Nest2.png"/>](https://note-nest-21dd0.web.app/)
-[<img height="237" src="https://github.com/FM-Akib/FM-Akib/blob/main/Bangla%20Bhai.png"/>](https://bangla-bhai-restaurent.web.app/)
-[<img height="237" src="https://github.com/FM-Akib/FM-Akib/blob/main/diptosikha.png"/>](https://diptoshikha-d040d.web.app/)
-[<img height="237" src="https://github.com/FM-Akib/FM-Akib/blob/main/Mess%20Management%20System.png"/>](https://github.com/FM-Akib/Mess-Management-System.git)
-[<img height="237" src="https://github.com/FM-Akib/FM-Akib/blob/main/restaurent%20management%20sys.png"/>](https://github.com/FM-Akib/Restaurent-Management-System.git)
-</p>***
+<div align="center">
+
+| Project Name | Technologies | Live Demo |
+|:------------:|:------------|:---------:|
+| Note Nest | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://note-nest-21dd0.web.app/) |
+| Bangla Bhai Restaurant | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://bangla-bhai-restaurent.web.app/) |
+| Diptoshikha | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://diptoshikha-d040d.web.app/) |
+| Mess Management System | Java, JavaFX, MySQL | [GitHub](https://github.com/FM-Akib/Mess-Management-System.git) |
+| Restaurant Management System | Java, JavaFX, MySQL | [GitHub](https://github.com/FM-Akib/Restaurent-Management-System.git) |
+
+</div>
 
 <br />
 
