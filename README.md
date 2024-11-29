@@ -20,9 +20,10 @@
 | Project Name | Technologies | Live Demo |
 |:------------:|:------------|:---------:|
 | Note Nest | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://note-nest-21dd0.web.app/) |
-| Ancient-Recipes-Api | Hono js, orm - drizzle, neon postgresql | [Live Api](https://ancient-recipes-nc8nbtyl4-motimiya08s-projects.vercel.app/)
+| Ancient-Recipes-Api | Hono js, orm - drizzle, neon postgresql | [Live Api](https://ancient-recipes-nc8nbtyl4-motimiya08s-projects.vercel.app/)|
 | Bangla Bhai Restaurant | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://bangla-bhai-restaurent.web.app/) |
 | Diptoshikha | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://diptoshikha-d040d.web.app/) |
+| Trendall Research Centre | A client project with MERN | [Github](https://github.com/FM-Akib/trendall-research-centre.git)|
 | Mess Management System | Java, JavaFX, MySQL | [GitHub](https://github.com/FM-Akib/Mess-Management-System.git) |
 | Restaurant Management System | Java, JavaFX, MySQL | [GitHub](https://github.com/FM-Akib/Restaurent-Management-System.git) |
 
