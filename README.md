@@ -20,7 +20,8 @@
 | Project Name | Technologies | Live Demo |
 |:------------:|:------------|:---------:|
 | Note Nest | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://note-nest-21dd0.web.app/) |
-| Ancient-Recipes-Api | Hono js, orm - drizzle, neon postgresql | [Live Api](https://ancient-recipes-nc8nbtyl4-motimiya08s-projects.vercel.app/)|
+| Ancient-Recipes-Api | Hono js, orm - drizzle, neon PostgreSQL | [Live Api](https://ancient-recipes-nc8nbtyl4-motimiya08s-projects.vercel.app/)|
+| Todo App | Next js, Redux, Redux toolkit, Express, Mongodb | [Live](https://todo-app-ochre-sigma.vercel.app/)|
 | Bangla Bhai Restaurant | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://bangla-bhai-restaurent.web.app/) |
 | Diptoshikha | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://diptoshikha-d040d.web.app/) |
 | Trendall Research Centre | A client project with MERN | [Github](https://github.com/FM-Akib/trendall-research-centre.git)|
