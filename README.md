@@ -47,14 +47,9 @@
 
 
 
-## :mailbox: Contact Me
 
 
 
-***<p align="center"> [<img height="55" src="https://github.com/FM-Akib/FM-Akib/blob/main/Email.png">](muntasirakib08@gmail.com)[<img height="55" src="https://github.com/FM-Akib/FM-Akib/blob/main/linkedin.png">](https://www.linkedin.com/in/fahim-muntasir-akib/)[<img height="55" src="https://github.com/FM-Akib/FM-Akib/blob/main/resume.png">](https://drive.google.com/file/d/16QxDGtNJFIDVwykuu5bWUW48iypmB_Hk/view)[<img height="55" src="https://github.com/FM-Akib/FM-Akib/blob/main/Portfolio2.png">](https://fahim-muntasir-akib.vercel.app/) </p>***
-
-<br/>
-<br/>
 
 
 
