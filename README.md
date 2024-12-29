@@ -25,7 +25,7 @@
 <br />
 
 
-## :zap: My Projects_
+## :zap: Projects_
 
 <div align="center">
 
