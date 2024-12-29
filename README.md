@@ -10,6 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fm-akib&label=Profile%20views&color=0e75b6&style=flat" alt="fm-akib" /> </p>
 
+###  ⚡ Github Stats
+
 ![FM-Akib's Stats](https://github-readme-stats.vercel.app/api?username=FM-Akib&theme=blueberry&show_icons=true&hide_border=true&count_private=true&line_height=20)
 ![FM-Akib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FM-Akib&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
