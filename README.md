@@ -10,7 +10,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fm-akib&label=Profile%20views&color=0e75b6&style=flat" alt="fm-akib" /> </p>
 
+![FM-Akib's Stats](https://github-readme-stats.vercel.app/api?username=FM-Akib&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![FM-Akib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FM-Akib&theme=vue-dark&hide_border=true)
+![FM-Akib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FM-Akib&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+## :bulb: Skills_
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,tailwind,vite,react,next,nodejs,express,postgres,mongodb,redux,postman,firebase&theme=dark" />
+</p>
+
+
+<br />
 
 
 ## :zap: My Projects_
@@ -33,31 +44,7 @@
 <br />
 
 
-## :bulb: Skills_
 
-<p align="center">
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/HTML.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/css.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/bootstrap.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/Tailwind.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/C%2B%2B.png"/>
-</p>
-<p align="center">
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/JavaScript.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/react.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/dom.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/firebase.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/Java.png"/>
-</p>
-<p align="center">
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/node%20js.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/ex.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/mongoDB.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/jwt.png"/>
-<img height="150" src="https://github.com/FM-Akib/FM-Akib/blob/main/nextjs.png"/>
-</p>
-
-<br />
 
 
 ## :mailbox: Contact Me
