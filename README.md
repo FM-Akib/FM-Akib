@@ -32,6 +32,7 @@
 | Project Name | Technologies | Live Demo |
 |:------------:|:------------|:---------:|
 | Note Nest | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://note-nest-21dd0.web.app/) |
+| Porbo Shobai | React, Firebase, Express.js, MongoDB, Tailwind CSS, AI | [Live Demo](https://porbo-shobai-v01.web.app/) |
 | Ancient-Recipes-Api | Hono js, orm - drizzle, neon PostgreSQL | [Live Api](https://ancient-recipes-nc8nbtyl4-motimiya08s-projects.vercel.app/)|
 | Todo App | Next js, Redux, Redux toolkit, Express, Mongodb | [Live](https://todo-app-ochre-sigma.vercel.app/)|
 | Bangla Bhai Restaurant | React, Firebase, Express.js, MongoDB, Tailwind CSS | [Live Demo](https://bangla-bhai-restaurent.web.app/) |
